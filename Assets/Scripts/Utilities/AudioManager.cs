@@ -11,5 +11,8 @@ public class AudioManager : MonoSingleton<AudioManager> {
 		DontDestroyOnLoad(gameObject);
 	}
 	
+	void Update() {
+	
+	}
 	
 }
