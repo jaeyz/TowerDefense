@@ -158,6 +158,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITiledSprite.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
      <Compile Include="Assets\Scripts\Mesh\CombineMesh.cs" />
      <Compile Include="Assets\Scripts\Utilities\AudioManager.cs" />
      <Compile Include="Assets\Scripts\Utilities\MonoSingleton.cs" />
